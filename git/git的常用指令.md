@@ -32,3 +32,5 @@
 #### 更新远程分支列表
 
     git remote update origin --prune 
+
+![image](../pic/test.jpg)
