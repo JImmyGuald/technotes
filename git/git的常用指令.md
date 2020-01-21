@@ -33,4 +33,4 @@
 
     git remote update origin --prune 
 
-![image](../pic/test.jpg)
+![blockchain](https://jayden-doc.oss-cn-shenzhen.aliyuncs.com/a.jpg "test")
