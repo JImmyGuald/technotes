@@ -32,3 +32,7 @@
 #### 更新远程分支列表
 
     git remote update origin --prune 
+
+#### 设置全局的用户名和邮箱
+    git config --global user.name "Real Name"
+    git config --global user.email "e-mail@domain.tld"
