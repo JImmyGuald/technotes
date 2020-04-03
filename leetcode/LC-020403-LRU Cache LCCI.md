@@ -23,8 +23,8 @@
 [题目来源](https://leetcode-cn.com/problems/lru-cache-lcci/)
 
 ### 解法一
-    使用LinkHashMap
-    
+    使用LinkedHashMap
+
     class LRUCache {
         private LinkedHashMap<Integer,Integer> cache;
         private int size;
